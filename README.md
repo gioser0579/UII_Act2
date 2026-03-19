@@ -17,7 +17,8 @@ Contenido: Incluye 5 o 6 tratamientos específicos como 'Limpieza Láser', 'Orto
 
 Extra: Agrega un Drawer personalizado con degradado y un 'Badge' al final de la lista con mi firma: 'GIOSER FISHER 6-I'.
 A new Flutter project.
-<img width="305" height="497" alt="image" src="https://github.com/user-attachments/assets/7f787ded-0253-43bb-b57c-92d9345b43ae" />
+<img width="328" height="473" alt="image" src="https://github.com/user-attachments/assets/c9da870b-50bc-4b1d-a4c9-6064ecd49a24" />
+
 
 
 ## Getting Started
